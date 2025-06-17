@@ -16,6 +16,19 @@ KipuBank es un contrato inteligente desarrollado en Solidity que actúa como una
 
 ---
 
+## Explorer
+
+**Transacción**
+https://sepolia.etherscan.io/tx/0x003a64cc9fffb9b43c75fddb7c0501d3e73b9bad1d8f06367f86ed645e989b56
+
+**Contrato**
+0xcc4fda4d5f43ab9b7298081f0e36137680849989
+
+**Address**
+https://sepolia.etherscan.io/address/0xcc4fda4d5f43ab9b7298081f0e36137680849989
+
+---
+
 ## Estructura del Proyecto 📁
 
 ```
@@ -91,18 +104,5 @@ kipu-bank/
 ## Autor
 
 José Adrián Serrano Brenes
-
----
-
-## Explorer
-
-**Transacción**
-https://sepolia.etherscan.io/tx/0x003a64cc9fffb9b43c75fddb7c0501d3e73b9bad1d8f06367f86ed645e989b56
-
-**Contrato**
-0xcc4fda4d5f43ab9b7298081f0e36137680849989
-
-**Address**
-https://sepolia.etherscan.io/address/0xcc4fda4d5f43ab9b7298081f0e36137680849989
 
 ---
